@@ -8,7 +8,7 @@ export default withSentryConfig(
       // For all available options, see:
       // https://github.com/getsentry/sentry-webpack-plugin#options
 
-      org: "sanberk",
+      org: "sanberk-cx",
       project: "sanberk",
 
       // Only print logs for uploading source maps in CI
@@ -42,7 +42,7 @@ export default withSentryConfig(
       // For all available options, see:
       // https://github.com/getsentry/sentry-webpack-plugin#options
 
-      org: "sanberk-gn",
+      org: "sanberk-cx",
       project: "sanberk",
 
       // Only print logs for uploading source maps in CI
